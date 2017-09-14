@@ -1,0 +1,153 @@
+li{list-style-type:none;}
+* { margin:0; padding:0;}
+a{
+text-decoration:none;
+font-size:14px;
+color:#000000;
+}
+a:hover{
+	color:#FF6633;
+	text-decoration:none;
+}
+body{
+
+font-size:14px;}
+
+.register{
+float:right;
+padding-right:10%;}
+.top{
+font-size:14px;
+width:100%;
+height:80px;
+background-color:#e4f7f8;
+}
+.top-next{
+	width:100%;
+	height:20px;
+	background-color:#6ec6ce;
+	}
+.top-left{
+
+width:200px;
+height:50px;
+margin-left:300px;
+margin-right:20px;
+	float:left;
+}
+.top ul{
+margin-left:400px;
+padding-top:0px;
+}
+.top-right{
+	padding-top:0px;
+}
+.top li{
+margin:25px 0px 20px 0px; 
+float:left;
+padding-left:20px;
+line-height:32px;
+}
+.center{
+font-family:华文行楷;
+font-size:16px;
+width:80%;
+height:1300px;
+margin:auto;
+}
+.center-head{
+
+width:100%;
+height:80px;
+
+}
+
+.tab { 
+	width:45%;
+	height:80px;
+	float:left;
+}
+.tab_menu li { 
+	float:left; 
+	text-align:center; 
+	cursor:pointer; 
+	list-style:none; 
+	padding:1px 6px; 
+	margin-right:4px; 
+	background:#F1F1F1;
+	border:1px solid #898989; 
+	border-bottom:none;
+}
+
+.tab_menu li.hover { 
+	background:#DFDFDF;
+}
+.tab_menu li.selected { 
+	color:#FFF; 
+	background:#6ec6ce;
+}
+.tab_box { 
+	clear:both; 
+	border:1px solid #898989;
+}
+.tab_box li{
+float:left;
+padding-left:40px;}
+ .hide{
+	display:none
+}
+
+.center-head-right{
+width:40%;
+float:right;
+}
+.center-body{
+width:100%;
+height:1400px;
+clear:both;
+}
+
+.name{
+	font-size:16px;
+	color:#000;}
+ .old{
+	text-decoration:line-through;
+	color:#666;}
+ .price{
+		color:#fb480a;
+		font-size:18px;}
+.center-body ul{
+	padding-left:100px;
+	}
+.center-body li{
+float:left;
+padding-left:30px;
+padding-top:10px;
+text-align:center;
+}
+
+.footer-top{
+width:100%;
+	height:20px;
+	background-color:#6ec6ce;
+	}
+.footer{
+font-size:14px;
+padding-top:1px;
+width:100%;
+height:100px;
+background-color:#e4f7f8;
+}
+.footer ul{
+	
+margin-left:400px;
+}
+.footer li{
+float:left;
+margin:5px 35px 15px 10px;
+}
+.footer .footer-txt{
+	clear:both;
+padding-top:0px;
+padding-left:35%;
+}

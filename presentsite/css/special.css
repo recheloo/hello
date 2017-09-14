@@ -1,0 +1,111 @@
+/* CSS Document */
+li{list-style-type:none;}
+a{
+text-decoration:none;
+font-size:14px;
+color:#000000;
+}
+body{
+
+font-size:14px;}
+a:hover{
+	color:#FF6633;
+	text-decoration:none;
+}
+.jieri2{
+font-size:18px;}
+.top{
+font-size:14px;
+width:100%;
+height:80px;
+background-color:#e4f7f8;
+}
+.top-next{
+	width:100%;
+	height:20px;
+	background-color:#6ec6ce;
+	}
+.top-left{
+
+width:200px;
+height:50px;
+margin-left:300px;
+margin-right:20px;
+	float:left;
+}
+.top ul{
+margin-left:400px;
+padding-top:0px;
+}
+.top-right{
+	padding-top:0px;
+}
+.top li{
+margin:25px 0px 20px 0px; 
+float:left;
+padding-left:20px;
+line-height:32px;
+}
+.register{
+float:right;
+padding-right:10%;}
+.center{
+	font-family:华文行楷;
+font-size:16px;
+width:80%;
+height:2130px;
+margin:auto;}
+.center-head{
+
+width:80%;
+height:80px;
+}
+.center-head ul{
+	padding-left:230px;}
+.center-head li{
+float:left;
+padding-left:20px;
+padding-top:30px;
+
+}
+.center-body{
+width:100%;
+height:1400px;
+}
+.center-body li{
+float:left;
+padding-left:90px;
+padding-top:10px;
+text-align:center;
+}
+
+.jieri{
+color:#000000;}
+.footer-top{
+width:100%;
+	height:20px;
+	background-color:#6ec6ce;
+	}
+.footer{
+
+padding-top:1px;
+width:100%;
+height:100px;
+background-color:#e4f7f8;
+}
+.footer ul{
+	
+margin-left:29%;
+}
+.footer li{
+float:left;
+margin:5px 35px 15px 10px;
+}
+.footer-txt{
+	clear:both;
+padding-top:0px;
+padding-left:38%;
+
+}
+
+
